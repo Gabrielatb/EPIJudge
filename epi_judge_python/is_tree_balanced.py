@@ -1,8 +1,14 @@
 from test_framework import generic_test
 
+#Problem 9.1
+
 
 def is_balanced_binary_tree(tree):
     # TODO - you fill in here.
+
+    def check_balanced(node):
+        if node not None:
+
     return True
 
 
